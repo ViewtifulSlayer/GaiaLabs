@@ -1,0 +1,278 @@
+[
+  {
+    "name": "system",
+    "prefix": "sy",
+    "ranges": [
+      230,
+      [
+        250,
+        255
+      ]
+    ]
+  },
+  {
+    "name": "south-cape",
+    "prefix": "sc",
+    "ranges": [
+      [
+        1,
+        8
+      ]
+    ]
+  },
+  {
+    "name": "edward-castle",
+    "prefix": "ec",
+    "ranges": [
+      [
+        10,
+        19
+      ]
+    ]
+  },
+  {
+    "name": "itory",
+    "prefix": "it",
+    "ranges": [
+      [
+        21,
+        27
+      ]
+    ]
+  },
+  {
+    "name": "incan-ruins",
+    "prefix": "ir",
+    "ranges": [
+      [
+        28,
+        41
+      ]
+    ]
+  },
+  {
+    "name": "gold-ship",
+    "prefix": "gs",
+    "ranges": [
+      [
+        42,
+        46
+      ]
+    ]
+  },
+  {
+    "name": "diamond-coast",
+    "prefix": "dc",
+    "ranges": [
+      [
+        42,
+        46
+      ]
+    ]
+  },
+  {
+    "name": "freejia",
+    "prefix": "fr",
+    "ranges": [
+      [
+        47,
+        57
+      ]
+    ]
+  },
+  {
+    "name": "diamond-mine",
+    "prefix": "dm",
+    "ranges": [
+      [
+        61,
+        71
+      ]
+    ]
+  },
+  {
+    "name": "nazca",
+    "prefix": "na",
+    "ranges": [
+      [
+        73,
+        75
+      ]
+    ]
+  },
+  {
+    "name": "sky-garden",
+    "prefix": "sg",
+    "ranges": [
+      [
+        76,
+        89
+      ]
+    ]
+  },
+  {
+    "name": "seaside-palace",
+    "prefix": "sp",
+    "ranges": [
+      [
+        90,
+        94
+      ]
+    ]
+  },
+  {
+    "name": "mu",
+    "prefix": "mu",
+    "ranges": [
+      [
+        95,
+        103
+      ]
+    ]
+  },
+  {
+    "name": "angel-village",
+    "prefix": "av",
+    "ranges": [
+      [
+        104,
+        117
+      ]
+    ]
+  },
+  {
+    "name": "watermia",
+    "prefix": "wa",
+    "ranges": [
+      [
+        120,
+        127
+      ]
+    ]
+  },
+  {
+    "name": "great-wall",
+    "prefix": "gw",
+    "ranges": [
+      [
+        130,
+        136
+      ],
+      [
+        138,
+        139
+      ]
+    ]
+  },
+  {
+    "name": "prologue",
+    "prefix": "pr",
+    "ranges": [
+      [
+        140,
+        143
+      ]
+    ]
+  },
+  {
+    "name": "ending",
+    "prefix": "ed",
+    "ranges": [
+      137,
+      144,
+      229,
+      240,
+      247
+    ]
+  },
+  {
+    "name": "euro",
+    "prefix": "eu",
+    "ranges": [
+      [
+        145,
+        157
+      ]
+    ]
+  },
+  {
+    "name": "mountain-temple",
+    "prefix": "mt",
+    "ranges": [
+      [
+        160,
+        169
+      ]
+    ]
+  },
+  {
+    "name": "native-village",
+    "prefix": "nv",
+    "ranges": [
+      [
+        172,
+        174
+      ]
+    ]
+  },
+  {
+    "name": "angkor-wat",
+    "prefix": "aw",
+    "ranges": [
+      [
+        176,
+        192
+      ]
+    ]
+  },
+  {
+    "name": "dao",
+    "prefix": "da",
+    "ranges": [
+      [
+        195,
+        201
+      ]
+    ]
+  },
+  {
+    "name": "pyramid",
+    "prefix": "py",
+    "ranges": [
+      [
+        204,
+        219
+      ],
+      221
+    ]
+  },
+  {
+    "name": "babel-tower",
+    "prefix": "bt",
+    "ranges": [
+      220,
+      [
+        222,
+        229
+      ],
+      [
+        231,
+        232
+      ],
+      [
+        242,
+        246
+      ]
+    ]
+  },
+  {
+    "name": "mansion",
+    "prefix": "ma",
+    "ranges": [
+      [
+        233,
+        234
+      ]
+    ]
+  }
+]

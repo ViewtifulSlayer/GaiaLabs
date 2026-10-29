@@ -1,0 +1,1352 @@
+[
+  {
+    "group": "south-cape",
+    "index": 1,
+    "name": "south-cape",
+    "description": "South Cape"
+  },
+  {
+    "group": "south-cape",
+    "index": 2,
+    "name": "coastal-cave",
+    "description": "Coastal Cave"
+  },
+  {
+    "group": "south-cape",
+    "index": 3,
+    "name": "lances-house",
+    "description": "Lance's House"
+  },
+  {
+    "group": "south-cape",
+    "index": 4,
+    "name": "erics-house",
+    "description": "Eric's House"
+  },
+  {
+    "group": "south-cape",
+    "index": 5,
+    "name": "seths-house",
+    "description": "Seth's House"
+  },
+  {
+    "group": "south-cape",
+    "index": 6,
+    "name": "wills-house",
+    "description": "Will's House"
+  },
+  {
+    "group": "south-cape",
+    "index": 7,
+    "name": "chefs-house",
+    "description": "Chef's House"
+  },
+  {
+    "group": "south-cape",
+    "index": 8,
+    "name": "church",
+    "description": "Church"
+  },
+  {
+    "group": "edward-castle",
+    "index": 10,
+    "name": "edward-castle",
+    "description": "Edward's Castle"
+  },
+  {
+    "group": "edward-castle",
+    "index": 11,
+    "name": "castle-prison",
+    "description": "Castle Prison"
+  },
+  {
+    "group": "edward-castle",
+    "index": 12,
+    "name": "aqueduct-entrance",
+    "description": "Aqueduct - Entrance"
+  },
+  {
+    "group": "edward-castle",
+    "index": 13,
+    "name": "aqueduct-main",
+    "description": "Aqueduct - Main"
+  },
+  {
+    "group": "edward-castle",
+    "index": 14,
+    "name": "aqueduct-lockway",
+    "description": "Aqueduct - Lockway"
+  },
+  {
+    "group": "edward-castle",
+    "index": 15,
+    "name": "aqueduct-hall",
+    "description": "Aqueduct - Hall"
+  },
+  {
+    "group": "edward-castle",
+    "index": 16,
+    "name": "aqueduct-treasure",
+    "description": "Aqueduct - Treasure Room"
+  },
+  {
+    "group": "edward-castle",
+    "index": 17,
+    "name": "aqueduct-doorway",
+    "description": "Aqueduct - Doorway"
+  },
+  {
+    "group": "edward-castle",
+    "index": 18,
+    "name": "aqueduct-back",
+    "description": "Aqueduct - Back"
+  },
+  {
+    "group": "edward-castle",
+    "index": 19,
+    "name": "aqueduct-exit",
+    "description": "Aqueduct - Exit"
+  },
+  {
+    "group": "itory",
+    "index": 21,
+    "name": "itory-village",
+    "description": "Itory Village"
+  },
+  {
+    "group": "itory",
+    "index": 22,
+    "name": "itory-legend-house",
+    "description": "Itory - Legend House"
+  },
+  {
+    "group": "itory",
+    "index": 23,
+    "name": "lilys-house",
+    "description": "Itory - Lily's House"
+  },
+  {
+    "group": "itory",
+    "index": 24,
+    "name": "itory-couple-house",
+    "description": "Itory - Couple's House"
+  },
+  {
+    "group": "itory",
+    "index": 25,
+    "name": "itory-cave",
+    "description": "Itory - Cave"
+  },
+  {
+    "group": "itory",
+    "index": 26,
+    "name": "moon-tribe-camp",
+    "description": "Moon Tribe - Camp"
+  },
+  {
+    "group": "itory",
+    "index": 27,
+    "name": "moon-tribe-cave",
+    "description": "Moon Tribe - Cave"
+  },
+  {
+    "group": "incan-ruins",
+    "index": 28,
+    "name": "incan-ruins-entrance",
+    "description": "Incan Ruins - Entrance"
+  },
+  {
+    "group": "incan-ruins",
+    "index": 29,
+    "name": "larai-cliff",
+    "description": "Larai Cliff"
+  },
+  {
+    "group": "incan-ruins",
+    "index": 30,
+    "name": "larai-cliff-back",
+    "description": "Larai Cliff - Back"
+  },
+  {
+    "group": "incan-ruins",
+    "index": 31,
+    "name": "stone-lord-plates",
+    "description": "Incan Runis - Stone Lord Pressure Plates"
+  },
+  {
+    "group": "incan-ruins",
+    "index": 32,
+    "name": "inca-secret-hallway",
+    "description": "Incan Ruins - Secret Hallway"
+  },
+  {
+    "group": "incan-ruins",
+    "index": 33,
+    "name": "inca-river-crossing",
+    "description": "Incan Ruins - River Crossing"
+  },
+  {
+    "group": "incan-ruins",
+    "index": 34,
+    "name": "inca-river-detour",
+    "description": "Incan Ruins - River Detour"
+  },
+  {
+    "group": "incan-ruins",
+    "index": 35,
+    "name": "inca-guarded-gap",
+    "description": "Incan Ruins - Guarded Gap"
+  },
+  {
+    "group": "incan-ruins",
+    "index": 36,
+    "name": "inca-plate-room",
+    "description": "Incan Ruins - Plate Room"
+  },
+  {
+    "group": "incan-ruins",
+    "index": 37,
+    "name": "inca-entryway",
+    "description": "Incan Ruins - Entryway"
+  },
+  {
+    "group": "incan-ruins",
+    "index": 38,
+    "name": "inca-treasure-room",
+    "description": "Incan Ruins - Treasure Room"
+  },
+  {
+    "group": "incan-ruins",
+    "index": 39,
+    "name": "inca-side-passage",
+    "description": "Incan Ruins - Side Passage"
+  },
+  {
+    "group": "incan-ruins",
+    "index": 40,
+    "name": "ceiling-trap-room",
+    "description": "Incan Ruins - Ceiling Trap Room"
+  },
+  {
+    "group": "incan-ruins",
+    "index": 41,
+    "name": "castoth-lair",
+    "description": "Incan Ruins - Castoth's Lair"
+  },
+  {
+    "group": "gold-ship",
+    "index": 42,
+    "name": "dream",
+    "description": "Will's Dream"
+  },
+  {
+    "group": "gold-ship",
+    "index": 43,
+    "name": "ship-wreck",
+    "description": "Wrecked Ship - Exterior"
+  },
+  {
+    "group": "gold-ship",
+    "index": 44,
+    "name": "ship-gold",
+    "description": "Gold Ship - Exterior"
+  },
+  {
+    "group": "gold-ship",
+    "index": 45,
+    "name": "ship-wreck-interior",
+    "description": "Wrecked Ship - Interior"
+  },
+  {
+    "group": "gold-ship",
+    "index": 46,
+    "name": "ship-gold-interior",
+    "description": "Gold Ship - Interior"
+  },
+  {
+    "group": "freejia",
+    "index": 47,
+    "name": "adrift",
+    "description": "Adrift"
+  },
+  {
+    "group": "freejia",
+    "index": 48,
+    "name": "oakton",
+    "description": "Oakton House"
+  },
+  {
+    "group": "freejia",
+    "index": 49,
+    "name": "oakton-interior",
+    "description": "Oakton House - Interior"
+  },
+  {
+    "group": "freejia",
+    "index": 50,
+    "name": "freejia",
+    "description": "Freejia"
+  },
+  {
+    "group": "freejia",
+    "index": 51,
+    "name": "eriks-captivity",
+    "description": "Freejia - Erik's Captivity Room"
+  },
+  {
+    "group": "freejia",
+    "index": 52,
+    "name": "freejia-darkspace",
+    "description": "Freejia - Dark Space House"
+  },
+  {
+    "group": "freejia",
+    "index": 53,
+    "name": "freejia-labor-camp",
+    "description": "Freejia - Labor Camp"
+  },
+  {
+    "group": "freejia",
+    "index": 54,
+    "name": "mothers-house",
+    "description": "Freejia - Mother's House"
+  },
+  {
+    "group": "freejia",
+    "index": 55,
+    "name": "thorn-tower",
+    "description": "Freejia - Thorn Tower"
+  },
+  {
+    "group": "freejia",
+    "index": 56,
+    "name": "adequacy-manor",
+    "description": "Freejia - Adequacy Manor"
+  },
+  {
+    "group": "freejia",
+    "index": 57,
+    "name": "freejia-hotel",
+    "description": "Freejia - Hotel"
+  },
+  {
+    "group": "diamond-mine",
+    "index": 61,
+    "name": "mine-promise-passage",
+    "description": "Diamond Mine - Promise Passage"
+  },
+  {
+    "group": "diamond-mine",
+    "index": 62,
+    "name": "mine-entrance",
+    "description": "Diamond Mine - Entrance"
+  },
+  {
+    "group": "diamond-mine",
+    "index": 63,
+    "name": "mine-main",
+    "description": "Diamond Mine - Main Chamber"
+  },
+  {
+    "group": "diamond-mine",
+    "index": 64,
+    "name": "mine-collapsed-tunnel",
+    "description": "Diamond Mine - Collapsed Tunnel"
+  },
+  {
+    "group": "diamond-mine",
+    "index": 65,
+    "name": "mine-zigzag",
+    "description": "Diamond Mine - Zigzag Passage"
+  },
+  {
+    "group": "diamond-mine",
+    "index": 66,
+    "name": "mine-elevator-passage",
+    "description": "Diamond Mine - Elevator Passage"
+  },
+  {
+    "group": "diamond-mine",
+    "index": 67,
+    "name": "mine-elevator",
+    "description": "Diamond Mine - Elevator"
+  },
+  {
+    "group": "diamond-mine",
+    "index": 68,
+    "name": "mine-foyer",
+    "description": "Diamond Mine - Sub Foyer"
+  },
+  {
+    "group": "diamond-mine",
+    "index": 69,
+    "name": "mine-morgue",
+    "description": "Diamond Mine - Morgue"
+  },
+  {
+    "group": "diamond-mine",
+    "index": 70,
+    "name": "mine-nest",
+    "description": "Diamond Mine - Monster Nest"
+  },
+  {
+    "group": "diamond-mine",
+    "index": 71,
+    "name": "mine-inner",
+    "description": "Diamond Mine - Inner Chamber"
+  },
+  {
+    "group": "nazca",
+    "index": 73,
+    "name": "neils-cottage",
+    "description": "Neil's Cottage"
+  },
+  {
+    "group": "nazca",
+    "index": 75,
+    "name": "nazca",
+    "description": "Nazca Plain"
+  },
+  {
+    "group": "sky-garden",
+    "index": 76,
+    "name": "garden-main",
+    "description": "Sky Garden - Main"
+  },
+  {
+    "group": "sky-garden",
+    "index": 77,
+    "name": "garden-east",
+    "description": "Sky Garden - East"
+  },
+  {
+    "group": "sky-garden",
+    "index": 78,
+    "name": "garden-east-underside",
+    "description": "Sky Garden - East (Underside)"
+  },
+  {
+    "group": "sky-garden",
+    "index": 79,
+    "name": "garden-southeast",
+    "description": "Sky Garden - Southeast"
+  },
+  {
+    "group": "sky-garden",
+    "index": 80,
+    "name": "garden-southeast-underside",
+    "description": "Sky Garden - Southeast (Underside)"
+  },
+  {
+    "group": "sky-garden",
+    "index": 81,
+    "name": "garden-southwest",
+    "description": "Sky Garden - Southwest"
+  },
+  {
+    "group": "sky-garden",
+    "index": 82,
+    "name": "garden-southwest-underside",
+    "description": "Sky Garden - Southwest (Underside)"
+  },
+  {
+    "group": "sky-garden",
+    "index": 83,
+    "name": "garden-west",
+    "description": "Sky Garden - West"
+  },
+  {
+    "group": "sky-garden",
+    "index": 84,
+    "name": "garden-west-underside",
+    "description": "Sky Garden - West (Underside)"
+  },
+  {
+    "group": "sky-garden",
+    "index": 85,
+    "name": "viper-lair",
+    "description": "Sky Garden - Viper's Lair"
+  },
+  {
+    "group": "sky-garden",
+    "index": 86,
+    "name": "garden-interior",
+    "description": "Sky Garden - Interior"
+  },
+  {
+    "group": "sky-garden",
+    "index": 88,
+    "name": "garden-descent",
+    "description": "Sky Garden - Descent"
+  },
+  {
+    "group": "sky-garden",
+    "index": 89,
+    "name": "garden-crash",
+    "description": "Sky Garden - Crash"
+  },
+  {
+    "group": "seaside-palace",
+    "index": 90,
+    "name": "palace-main",
+    "description": "Seabed Palace - Main"
+  },
+  {
+    "group": "seaside-palace",
+    "index": 91,
+    "name": "palace-rooms",
+    "description": "Seabed Palace - Rooms"
+  },
+  {
+    "group": "seaside-palace",
+    "index": 92,
+    "name": "palace-coffins",
+    "description": "Seabed Palace - Coffins"
+  },
+  {
+    "group": "seaside-palace",
+    "index": 93,
+    "name": "palace-fountain",
+    "description": "Seabed Palace - Fountain"
+  },
+  {
+    "group": "seaside-palace",
+    "index": 94,
+    "name": "palace-passageway",
+    "description": "Seabed Palace - Mu Passageway"
+  },
+  {
+    "group": "mu",
+    "index": 95,
+    "name": "mu-entrance",
+    "description": "Mu - Entrance"
+  },
+  {
+    "group": "mu",
+    "index": 96,
+    "name": "mu-east",
+    "description": "Mu - East"
+  },
+  {
+    "group": "mu",
+    "index": 97,
+    "name": "mu-south",
+    "description": "Mu - South"
+  },
+  {
+    "group": "mu",
+    "index": 98,
+    "name": "mu-west",
+    "description": "Mu - West"
+  },
+  {
+    "group": "mu",
+    "index": 99,
+    "name": "mu-prayer-room",
+    "description": "Mu - Prayer Room"
+  },
+  {
+    "group": "mu",
+    "index": 100,
+    "name": "mu-connector",
+    "description": "Mu - Connector"
+  },
+  {
+    "group": "mu",
+    "index": 101,
+    "name": "mu-maze",
+    "description": "Mu - Maze"
+  },
+  {
+    "group": "mu",
+    "index": 102,
+    "name": "mu-altar-room",
+    "description": "Mu - Altar Room"
+  },
+  {
+    "group": "mu",
+    "index": 103,
+    "name": "mu-vampire-lair",
+    "description": "Mu - Vampire Lair"
+  },
+  {
+    "group": "angel-village",
+    "index": 104,
+    "name": "undersea-tunnel",
+    "description": "Undersea Tunnel"
+  },
+  {
+    "group": "angel-village",
+    "index": 105,
+    "name": "angel-entrance",
+    "description": "Angel Village - Entrance"
+  },
+  {
+    "group": "angel-village",
+    "index": 106,
+    "name": "angel-annex",
+    "description": "Angel Village - Guest Annex"
+  },
+  {
+    "group": "angel-village",
+    "index": 107,
+    "name": "angel-village",
+    "description": "Angel Village"
+  },
+  {
+    "group": "angel-village",
+    "index": 108,
+    "name": "angel-rooms",
+    "description": "Angel Village - Rooms"
+  },
+  {
+    "group": "angel-village",
+    "index": 109,
+    "name": "angel-tunnel-entrance",
+    "description": "Angel Village - Entrance Tunnel"
+  },
+  {
+    "group": "angel-village",
+    "index": 110,
+    "name": "angel-tunnel-draco",
+    "description": "Angel Village - Draco Tunnel"
+  },
+  {
+    "group": "angel-village",
+    "index": 111,
+    "name": "angel-tunnel-dark",
+    "description": "Angel Village - Dark Tunnel"
+  },
+  {
+    "group": "angel-village",
+    "index": 112,
+    "name": "angel-tunnel-river",
+    "description": "Angel Village - River Tunnel"
+  },
+  {
+    "group": "angel-village",
+    "index": 113,
+    "name": "angel-tunnel-wind",
+    "description": "Angel Village - Windy Tunnel"
+  },
+  {
+    "group": "angel-village",
+    "index": 114,
+    "name": "angel-tunnel-statue",
+    "description": "Angel Village - Statue Tunnel"
+  },
+  {
+    "group": "angel-village",
+    "index": 115,
+    "name": "angel-tunnel-waterfall",
+    "description": "Angel Village - Waterfall Tunnel"
+  },
+  {
+    "group": "angel-village",
+    "index": 116,
+    "name": "angel-tunnel-rooms",
+    "description": "Angel Village - Tunnel Rooms"
+  },
+  {
+    "group": "angel-village",
+    "index": 117,
+    "name": "angel-tunnel-test",
+    "description": "Angel Village - Ishtar's Test"
+  },
+  {
+    "group": "watermia",
+    "index": 120,
+    "name": "watermia",
+    "description": "Watermia"
+  },
+  {
+    "group": "watermia",
+    "index": 121,
+    "name": "lukes-house",
+    "description": "Watermia - Luke's House"
+  },
+  {
+    "group": "watermia",
+    "index": 122,
+    "name": "lances-fathers-house",
+    "description": "Watermia - Lance's Father's House"
+  },
+  {
+    "group": "watermia",
+    "index": 123,
+    "name": "gambling-house",
+    "description": "Watermia - Gambling House"
+  },
+  {
+    "group": "watermia",
+    "index": 124,
+    "name": "watermia-darkspace",
+    "description": "Watermia - Dark Space House"
+  },
+  {
+    "group": "watermia",
+    "index": 125,
+    "name": "glass-players-house",
+    "description": "Watermia - Glass Player's House"
+  },
+  {
+    "group": "watermia",
+    "index": 126,
+    "name": "rumor-house",
+    "description": "Watermia - Rumor House"
+  },
+  {
+    "group": "watermia",
+    "index": 127,
+    "name": "lance-lily-exchange",
+    "description": "Watermia - Lance & Lily's Exchange"
+  },
+  {
+    "group": "great-wall",
+    "index": 130,
+    "name": "wall-entrance",
+    "description": "Great Wall - Entrance"
+  },
+  {
+    "group": "great-wall",
+    "index": 131,
+    "name": "wall-dive",
+    "description": "Great Wall - Long Dive"
+  },
+  {
+    "group": "great-wall",
+    "index": 133,
+    "name": "wall-rampway",
+    "description": "Great Wall - Rampway"
+  },
+  {
+    "group": "great-wall",
+    "index": 134,
+    "name": "wall-blind-pit",
+    "description": "Great Wall - Blind Pit"
+  },
+  {
+    "group": "great-wall",
+    "index": 135,
+    "name": "wall-switchback",
+    "description": "Great Wall - Switchback"
+  },
+  {
+    "group": "great-wall",
+    "index": 136,
+    "name": "wall-tomb",
+    "description": "Great Wall - Tomb"
+  },
+  {
+    "group": "ending",
+    "index": 137,
+    "name": "ending-new-babel",
+    "description": "Ending - New Babel"
+  },
+  {
+    "group": "great-wall",
+    "index": 138,
+    "name": "sand-fanger-lair",
+    "description": "Great Wall - Sand Fanger Lair"
+  },
+  {
+    "group": "great-wall",
+    "index": 139,
+    "name": "wall-inner",
+    "description": "Great Wall - Inner Chamber"
+  },
+  {
+    "group": "prologue",
+    "index": 140,
+    "name": "prologue-prophecy",
+    "description": "Prologue - Prophecy"
+  },
+  {
+    "group": "prologue",
+    "index": 141,
+    "name": "prologue-legends",
+    "description": "Prologue - Legends"
+  },
+  {
+    "group": "prologue",
+    "index": 142,
+    "name": "prologue-missing",
+    "description": "Prologue - Missing"
+  },
+  {
+    "group": "prologue",
+    "index": 143,
+    "name": "prologue-mishap",
+    "description": "Prologue - Mishap"
+  },
+  {
+    "group": "ending",
+    "index": 144,
+    "name": "ending-changed-world",
+    "description": "Ending - Changed World"
+  },
+  {
+    "group": "euro",
+    "index": 145,
+    "name": "euro",
+    "description": "Euro"
+  },
+  {
+    "group": "euro",
+    "index": 146,
+    "name": "geezer-central",
+    "description": "Euro - Geezer Central"
+  },
+  {
+    "group": "euro",
+    "index": 147,
+    "name": "power-house",
+    "description": "Euro - Power House"
+  },
+  {
+    "group": "euro",
+    "index": 148,
+    "name": "rolek-office",
+    "description": "Euro - Rolek Office"
+  },
+  {
+    "group": "euro",
+    "index": 149,
+    "name": "rolek-mansion",
+    "description": "Euro - Rolek Mansion"
+  },
+  {
+    "group": "euro",
+    "index": 150,
+    "name": "guest-room",
+    "description": "Euro - Guest Room"
+  },
+  {
+    "group": "euro",
+    "index": 151,
+    "name": "flea-market",
+    "description": "Euro - Rolek Market"
+  },
+  {
+    "group": "euro",
+    "index": 152,
+    "name": "baggage-house",
+    "description": "Euro - Baggage House"
+  },
+  {
+    "group": "euro",
+    "index": 153,
+    "name": "euro-darkspace-house",
+    "description": "Euro - Dark Space House"
+  },
+  {
+    "group": "euro",
+    "index": 154,
+    "name": "friezers-house",
+    "description": "Euro - Friezer's House"
+  },
+  {
+    "group": "euro",
+    "index": 155,
+    "name": "gems-house",
+    "description": "Euro - Gem's House"
+  },
+  {
+    "group": "euro",
+    "index": 156,
+    "name": "mushroom-twins",
+    "description": "Euro - Mushroom Twins House"
+  },
+  {
+    "group": "euro",
+    "index": 157,
+    "name": "dark-chapel",
+    "description": "Euro - Dark Chapel"
+  },
+  {
+    "group": "mountain-temple",
+    "index": 160,
+    "name": "kress-entrance",
+    "description": "Mt. Temple - Entrance"
+  },
+  {
+    "group": "mountain-temple",
+    "index": 161,
+    "name": "kress-twisted",
+    "description": "Mt. Temple - Twisted Paths"
+  },
+  {
+    "group": "mountain-temple",
+    "index": 162,
+    "name": "kress-crossroads",
+    "description": "Mt. Temple - Crossroads"
+  },
+  {
+    "group": "mountain-temple",
+    "index": 163,
+    "name": "kress-gauntlet",
+    "description": "Mt. Temple - Treasure Gauntlet"
+  },
+  {
+    "group": "mountain-temple",
+    "index": 164,
+    "name": "kress-loop",
+    "description": "Mt. Temple - Western Loop"
+  },
+  {
+    "group": "mountain-temple",
+    "index": 165,
+    "name": "kress-circuit",
+    "description": "Mt. Temple - Broken Vines"
+  },
+  {
+    "group": "mountain-temple",
+    "index": 166,
+    "name": "kress-mushrooms",
+    "description": "Mt. Temple - Mushroom Field"
+  },
+  {
+    "group": "mountain-temple",
+    "index": 167,
+    "name": "kress-maze",
+    "description": "Mt. Temple - Vine Maze"
+  },
+  {
+    "group": "mountain-temple",
+    "index": 168,
+    "name": "kress-detour",
+    "description": "Mt. Temple - Detour"
+  },
+  {
+    "group": "mountain-temple",
+    "index": 169,
+    "name": "kress-summit",
+    "description": "Mt. Temple - Summit"
+  },
+  {
+    "group": "native-village",
+    "index": 172,
+    "name": "native-village",
+    "description": "Native Village"
+  },
+  {
+    "group": "native-village",
+    "index": 173,
+    "name": "vacant-hut",
+    "description": "Native Village - Vacant Hut"
+  },
+  {
+    "group": "native-village",
+    "index": 174,
+    "name": "gorgon-hut",
+    "description": "Native Village - Gorgon Hut"
+  },
+  {
+    "group": "angkor-wat",
+    "index": 176,
+    "name": "angkor-entrance",
+    "description": "Angkor Wat - Entrance"
+  },
+  {
+    "group": "angkor-wat",
+    "index": 177,
+    "name": "angkor-outer-gate",
+    "description": "Angkor Wat - Outer Gate"
+  },
+  {
+    "group": "angkor-wat",
+    "index": 178,
+    "name": "angkor-outer-east",
+    "description": "Mt. Temple - Outer East"
+  },
+  {
+    "group": "angkor-wat",
+    "index": 179,
+    "name": "angkor-outer-north",
+    "description": "Angkor Wat - Outer North"
+  },
+  {
+    "group": "angkor-wat",
+    "index": 180,
+    "name": "snake-pit",
+    "description": "Angkor Wat - Snake Pit"
+  },
+  {
+    "group": "angkor-wat",
+    "index": 181,
+    "name": "angkor-outer-west",
+    "description": "Angkor Wat - Outer West"
+  },
+  {
+    "group": "angkor-wat",
+    "index": 182,
+    "name": "angkor-courtyard",
+    "description": "Angkor Wat - Courtyard"
+  },
+  {
+    "group": "angkor-wat",
+    "index": 183,
+    "name": "angkor-inner-gate",
+    "description": "Angkor Wat - Inner Gate"
+  },
+  {
+    "group": "angkor-wat",
+    "index": 184,
+    "name": "angkor-inner-east",
+    "description": "Angkor Wat - Inner East"
+  },
+  {
+    "group": "angkor-wat",
+    "index": 185,
+    "name": "angkor-inner-west",
+    "description": "Angkor Wat - Inner West"
+  },
+  {
+    "group": "angkor-wat",
+    "index": 186,
+    "name": "angkor-inner-path",
+    "description": "Angkor Wat - Inner Path"
+  },
+  {
+    "group": "angkor-wat",
+    "index": 187,
+    "name": "angkor-shrine-main",
+    "description": "Angkor Wat - Main Shrine"
+  },
+  {
+    "group": "angkor-wat",
+    "index": 188,
+    "name": "angkor-shrine-crystal",
+    "description": "Angkor Wat - Crystal Room"
+  },
+  {
+    "group": "angkor-wat",
+    "index": 189,
+    "name": "angkor-shrine-dejavu",
+    "description": "Angkor Wat - Deja Vu"
+  },
+  {
+    "group": "angkor-wat",
+    "index": 190,
+    "name": "angkor-shrine-upper",
+    "description": "Angkor Wat - Upper Shrine"
+  },
+  {
+    "group": "angkor-wat",
+    "index": 191,
+    "name": "angkor-pinnacle",
+    "description": "Angkor Wat - Pinnacle"
+  },
+  {
+    "group": "angkor-wat",
+    "index": 192,
+    "name": "future-vision",
+    "description": "Angkor Wat - Future Vision"
+  },
+  {
+    "group": "dao",
+    "index": 195,
+    "name": "dao",
+    "description": "Dao"
+  },
+  {
+    "group": "dao",
+    "index": 196,
+    "name": "dao-hotel",
+    "description": "Dao - Hotel"
+  },
+  {
+    "group": "dao",
+    "index": 197,
+    "name": "sweatshop",
+    "description": "Dao - Sweatshop"
+  },
+  {
+    "group": "dao",
+    "index": 198,
+    "name": "panic-room",
+    "description": "Dao - Snake Panic"
+  },
+  {
+    "group": "dao",
+    "index": 199,
+    "name": "desert-explorers",
+    "description": "Dao - Explorer's House"
+  },
+  {
+    "group": "dao",
+    "index": 200,
+    "name": "dao-dorm",
+    "description": "Dao - Dorm"
+  },
+  {
+    "group": "dao",
+    "index": 201,
+    "name": "indecision-room",
+    "description": "Dao - Indecision Room"
+  },
+  {
+    "group": "pyramid",
+    "index": 204,
+    "name": "pyramid-main",
+    "description": "Pyramid - Main Chamber"
+  },
+  {
+    "group": "pyramid",
+    "index": 205,
+    "name": "puzzle-room",
+    "description": "Pyramid - Puzzle Room"
+  },
+  {
+    "group": "pyramid",
+    "index": 206,
+    "name": "pyramid-ramptastic-a",
+    "description": "Pyramid - Ramptastic A"
+  },
+  {
+    "group": "pyramid",
+    "index": 207,
+    "name": "pyramid-ramptastic-b",
+    "description": "Pyramid - Ramptastic B"
+  },
+  {
+    "group": "pyramid",
+    "index": 208,
+    "name": "pyramid-meltdown-a",
+    "description": "Pyramid - Meltdown A"
+  },
+  {
+    "group": "pyramid",
+    "index": 209,
+    "name": "pyramid-meltdown-b",
+    "description": "Pyramid - Meltdown B"
+  },
+  {
+    "group": "pyramid",
+    "index": 210,
+    "name": "pyramid-focus-a",
+    "description": "Pyramid - Focus A"
+  },
+  {
+    "group": "pyramid",
+    "index": 211,
+    "name": "pyramid-focus-b",
+    "description": "Pyramid - Focus B"
+  },
+  {
+    "group": "pyramid",
+    "index": 212,
+    "name": "pyramid-trickle-a",
+    "description": "Pyramid - Trickle A"
+  },
+  {
+    "group": "pyramid",
+    "index": 213,
+    "name": "pyramid-trickle-b",
+    "description": "Pyramid - Trickle B"
+  },
+  {
+    "group": "pyramid",
+    "index": 214,
+    "name": "pyramid-vader-a",
+    "description": "Pyramid - Vader A"
+  },
+  {
+    "group": "pyramid",
+    "index": 215,
+    "name": "pyramid-vader-b",
+    "description": "Pyramid - Vader B"
+  },
+  {
+    "group": "pyramid",
+    "index": 216,
+    "name": "pyramid-dangerslide-a",
+    "description": "Pyramid - Dangerslide A"
+  },
+  {
+    "group": "pyramid",
+    "index": 217,
+    "name": "pyramid-dangerslide-b",
+    "description": "Pyramid - Dangerslide B"
+  },
+  {
+    "group": "pyramid",
+    "index": 218,
+    "name": "heiroglyph-room",
+    "description": "Pyramid - Hieroglyph Room"
+  },
+  {
+    "group": "pyramid",
+    "index": 219,
+    "name": "pyramid-dangerslide-c",
+    "description": "Pyramid - Dangerslide C"
+  },
+  {
+    "group": "babel-tower",
+    "index": 220,
+    "name": "babel-flight",
+    "description": "Babel Tower - Flight"
+  },
+  {
+    "group": "pyramid",
+    "index": 221,
+    "name": "mummy-queen-lair",
+    "description": "Pyramid - Mummy Queen's Lair"
+  },
+  {
+    "group": "babel-tower",
+    "index": 222,
+    "name": "babel-entrance",
+    "description": "Babel Tower - Entrance"
+  },
+  {
+    "group": "babel-tower",
+    "index": 223,
+    "name": "babel-lower-floors",
+    "description": "Babel Tower - Lower Floors"
+  },
+  {
+    "group": "babel-tower",
+    "index": 224,
+    "name": "babel-middle-floors",
+    "description": "Babel Tower - Middle Floors"
+  },
+  {
+    "group": "babel-tower",
+    "index": 225,
+    "name": "babel-light-elevator",
+    "description": "Babel Tower - Light Elevator"
+  },
+  {
+    "group": "babel-tower",
+    "index": 226,
+    "name": "babel-exterior",
+    "description": "Babel Tower - Exterior"
+  },
+  {
+    "group": "babel-tower",
+    "index": 227,
+    "name": "babel-upper-floors",
+    "description": "Babel Tower - Upper Floors"
+  },
+  {
+    "group": "babel-tower",
+    "index": 228,
+    "name": "babel-rooftop",
+    "description": "Babel Tower - Rooftop"
+  },
+  {
+    "group": "ending",
+    "index": 229,
+    "name": "ending-comet",
+    "description": "Ending - Comet"
+  },
+  {
+    "group": "system",
+    "index": 230,
+    "name": "dark-space",
+    "description": "Dark Space"
+  },
+  {
+    "group": "babel-tower",
+    "index": 231,
+    "name": "space-flight",
+    "description": "Comet - Space Flight"
+  },
+  {
+    "group": "babel-tower",
+    "index": 232,
+    "name": "comet-lair",
+    "description": "Comet - Final Lair"
+  },
+  {
+    "group": "mansion",
+    "index": 233,
+    "name": "mansion",
+    "description": "Mansion"
+  },
+  {
+    "group": "mansion",
+    "index": 234,
+    "name": "solid-arm-lair",
+    "description": "Mansion - Solid Arm's Lair"
+  },
+  {
+    "group": "ending",
+    "index": 240,
+    "name": "ending-class-dismissed",
+    "description": "Ending - Class Dismissed"
+  },
+  {
+    "group": "babel-tower",
+    "index": 242,
+    "name": "dark-castoth-lair",
+    "description": "Babel Tower - Dark Castoth's Lair"
+  },
+  {
+    "group": "babel-tower",
+    "index": 243,
+    "name": "dark-viper-lair",
+    "description": "Babel Tower - Dark Viper's Lair"
+  },
+  {
+    "group": "babel-tower",
+    "index": 244,
+    "name": "dark-vampire-lair",
+    "description": "Babel Tower - Dark Vampire's Lair"
+  },
+  {
+    "group": "babel-tower",
+    "index": 245,
+    "name": "dark-fanger-lair",
+    "description": "Babel Tower - Dark Fanger's Lair"
+  },
+  {
+    "group": "babel-tower",
+    "index": 246,
+    "name": "dark-queen-lair",
+    "description": "Babel Tower - Dark Queen's Lair"
+  },
+  {
+    "group": "ending",
+    "index": 247,
+    "name": "ending-credits",
+    "description": "Ending - Credits"
+  },
+  {
+    "group": "system",
+    "index": 250,
+    "name": "diary-menu",
+    "description": "Diary Menu"
+  },
+  {
+    "group": "system",
+    "index": 251,
+    "name": "boot-logos",
+    "description": "Boot Logos"
+  },
+  {
+    "group": "system",
+    "index": 252,
+    "name": "title-screen",
+    "description": "Title Screen"
+  },
+  {
+    "group": "system",
+    "index": 253,
+    "name": "statue-inventory",
+    "description": "Statue Inventory"
+  },
+  {
+    "group": "system",
+    "index": 254,
+    "name": "world-map",
+    "description": "World Map"
+  },
+  {
+    "group": "system",
+    "index": 255,
+    "name": "inventory",
+    "description": "Inventory"
+  }
+]
